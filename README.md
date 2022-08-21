@@ -1,2 +1,2 @@
-# desafio-git-github-dio
-Primeiro Projeto Desafio Dio Data Base - Git GitHub
+# Olá galera! Sejam bem vindos ao meu primeiro repositório.
+Refere-se ao Primeiro Desafio da jornada Data Base Experience da DIO, sobre Git/GitHub
